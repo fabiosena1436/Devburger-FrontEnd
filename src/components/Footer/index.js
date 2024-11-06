@@ -31,13 +31,13 @@ export function Footer() {
             <InstagramIcon style={{ height: 40, width: 40 }} />
           </LinkStyle>
           <LinkStyle
-            href="https://www.facebook.com/profile.php?id=100011666990202"
+            href="#"
             target="blank_"
           >
             <FacebookIcon style={{ height: 40, width: 40 }} />
           </LinkStyle>
           <LinkStyle
-            href="https://www.linkedin.com/in/renan-j%C3%BAnior/"
+            href="https://www.linkedin.com/in/fabio-vicente-de-sena/"
             target="blank_"
           >
             <LinkedInIcon style={{ height: 40, width: 40 }} />
@@ -48,7 +48,7 @@ export function Footer() {
 
       <Rights>
         <p>
-          Copyrights © 2023 All Rights Reserved by <b>Renan Junior</b>
+          Copyrights © 2024 All Rights Reserved by <b>Fabio Sena</b>
         </p>
       </Rights>
     </>
